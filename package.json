@@ -1,0 +1,24 @@
+{
+  "name": "copy-webpack-plugin-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koukimetal/copy-webpack-plugin-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koukimetal/copy-webpack-plugin-sample/issues"
+  },
+  "homepage": "https://github.com/koukimetal/copy-webpack-plugin-sample#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.6.0",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1"
+  }
+}
